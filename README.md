@@ -6,7 +6,7 @@
 - 🌱 Additionally, I create content on entertainment, reaching over 150 followers on Instagram
 
 
-### Projects 🚀
+##### Projects 🚀
 
 
 ### CVMap.Ai
