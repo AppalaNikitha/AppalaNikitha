@@ -36,4 +36,15 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AppalaNikitha&show_icons=true&theme=radical)
+
+
+## Connect with Me 🤝
+
+Feel free to reach out to me through the following channels:
+
+- [Email](appalanikitha783@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/iamatharvapatil](https://www.linkedin.com/in/appala-nikitha/))
+- [Portfolio Website/Blog] 
+
+Let's collaborate and build amazing things together! 😊
