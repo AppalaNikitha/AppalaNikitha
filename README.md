@@ -23,3 +23,17 @@
 - HTML, CSS, and JS work together to create a user-friendly interface where tasks can be added, edited, and deleted, providing a seamless user experience.
 - JavaScript handles the functionality of the to-do list, such as adding new tasks dynamically, marking tasks as completed, and updating the interface in 
   real-time without needing to refresh the page.
+
+
+  ### Skills & Technologies 🛠️
+
+
+- Programming Languages: Java, Python, C++
+- Tools & Technologies: HTML, CSS, Machine Learning, Artificial Neural Networks, JavaScript, Node.js, MySQL, Power BI, Canva, Git, AWS.
+
+
+### GitHub Stats 📊
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
