@@ -60,7 +60,7 @@
 Feel free to reach out to me through the following channels:
 
 - [Email](appalanikitha783@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/iamatharvapatil](https://www.linkedin.com/in/appala-nikitha/))
+- [LinkedIn](https://www.linkedin.com/in/appala-nikitha/)
 - [Portfolio Website/Blog] 
 
 Let's collaborate and build amazing things together! 😊
