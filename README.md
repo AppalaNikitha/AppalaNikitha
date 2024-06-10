@@ -34,6 +34,12 @@
 - The project was done with PHYSICAL components and on real-time work basis so there is no URL present for this Project.
 
   
+### Quiz Application
+- This Java application uses MySQL to store quiz questions and results, with classes for database connections, question management, and result handling. Teachers can manage questions and assess student progress, while students take timed multiple-choice quizzes.
+- Users identify as teachers or students, with teachers needing a password. The app features a user-friendly interface, time-limited quizzes, and generates detailed certificates with scores and grades for students.
+
+
+
 
   ## Skills & Technologies 🛠️
 
