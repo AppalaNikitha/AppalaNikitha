@@ -1,7 +1,7 @@
-### Welcome to Nikitha's GitHub Profile 👋
+## Welcome to Nikitha's GitHub Profile 👋
 
 
-### About Me 
+## About Me 
 - 🔭 I’m currently pursuing B Tech in CSE(Data Science)
 - 🌱 Additionally, I create content on entertainment, reaching over 150 followers on Instagram
 
@@ -19,13 +19,23 @@
 - Generates original music compositions based on learned information, combining learned styles with novel elements to produce unique pieces.
 
 
-### To-Do List
-- HTML, CSS, and JS work together to create a user-friendly interface where tasks can be added, edited, and deleted, providing a seamless user experience.
-- JavaScript handles the functionality of the to-do list, such as adding new tasks dynamically, marking tasks as completed, and updating the interface in 
-  real-time without needing to refresh the page.
+### Customer Segmentation
+- Machine learning-based segmentation helps create personalized marketing and product offerings, boosting customer satisfaction and loyalty.
+- It enables data-driven decisions, optimizing resource use and improving marketing and product development for better efficiency and growth.
 
 
-  ### Skills & Technologies 🛠️
+### Flight Delay Prediction Model
+- This project analyzes flight delays, leveraging machine learning and data mining techniques to explore and predict delays.
+- The investigation considers factors such as airport location, weather conditions, and airport capacity to provide comprehensive insights.
+
+
+#### SCADA based MONITORING System
+- Supervisory control and data acquisition (SCADA) is a system of software and hardware elements that allows industrial organizations to: Control industrial processes locally or at remote locations. Monitor, gather, and process real-time data.
+- The project was done with PHYSICAL components and on real-time work basis so there is no URL present for this Project.
+
+  
+
+  ## Skills & Technologies 🛠️
 
 
 - Programming Languages: Java, Python, C++
