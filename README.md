@@ -39,6 +39,16 @@
 - Users identify as teachers or students, with teachers needing a password. The app features a user-friendly interface, time-limited quizzes, and generates detailed certificates with scores and grades for students.
 
 
+### Money Tracker 
+- It is a web application where users manage finances by entering income and expenses via a form. Data is sent to a Node.js server using Express and stored in MongoDB.
+- The app displays all entries in a table, calculates remaining balance by subtracting total expenses from total income, and shows it at the bottom. Users can delete entries to track financial status easily.
+
+
+### Blog-Website
+- The Blog Website allows users to create, manage, and read articles with ease. Users can create new articles via a submission form and view summaries of articles on the homepage. 
+- They have options to read, edit, or delete articles as needed. A robust backend handles data storage and retrieval, ensuring efficient content management. The interface prioritizes user-friendliness for effortless publishing and maintenance of blog posts.
+
+
 
 
   ## Skills & Technologies 🛠️
